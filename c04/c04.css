@@ -1,0 +1,21 @@
+.text{
+    text-align: center;
+    font-size:20px;
+    border-width:2px;
+    color:blue;
+}
+#content{
+    text-align:center;
+    color:green;
+}
+#title{
+    font-size:15px;
+    color:red;
+    text-align: center;
+}
+#note{
+    font-size:15px;
+    background-color:black;
+    color:blanchedalmond;
+    text-align:center;
+}
