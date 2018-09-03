@@ -1,0 +1,10 @@
+.content{
+    border-color:red;
+    width:800;
+    height:600;
+    text-align: center;
+}
+.text{
+    color:yellow;
+background-color:gray;
+}
