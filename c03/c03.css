@@ -1,0 +1,13 @@
+.content{
+   border-style: solid dotted dashed double;
+   width:1200px;
+   height:400px;
+    font-size:20px;
+    text-align:center;
+    border-color:yellow;
+    
+}
+.cost{
+    font-size:15px;
+    float:right;
+}
