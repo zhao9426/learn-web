@@ -9,6 +9,6 @@ delete hotel.booked;
 var elName=document.getElementById('hotelName');
 elName.textContent=hotel.name;
 var elPool=document.getElementById('pool');
-elPool.className='Pool:'+hotel.pool;
+elPool.className= hotel.pool? ' fa fa-check': 'fa fa-times';
 var elGym=document.getElementById('gym');
-elGym.className='Gym:'+hotel.gym;
+elGym.className=hotel.gym? 'fa fa-check':'fa fa-times'
